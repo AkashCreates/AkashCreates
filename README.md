@@ -36,12 +36,12 @@
   <img src="https://github-profile-trophy.vercel.app?username=AkashCreates&theme=dracula&row=1&margin-w=8&margin-h=8" height="150" />
 </div>
 
+###
+
+<h3 align="center">📊 GitHub Contribution Graph</h3>
+
 <p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/AkashCreates/AkashCreates/output/pacman-contribution-graph-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/AkashCreates/AkashCreates/output/pacman-contribution-graph.svg">
-    <img alt="Akash's GitHub contribution graph" src="https://raw.githubusercontent.com/AkashCreates/AkashCreates/output/pacman-contribution-graph.svg">
-  </picture>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AkashCreates&theme=dracula" alt="Akash's GitHub Contribution Graph"/>
 </p>
 
 ###
