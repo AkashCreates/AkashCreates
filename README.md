@@ -9,11 +9,27 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 </a>
 
 * 🌍  I'm based in India. 
-* ✉️  You can contact me at akashmaityofficial@gmail.com
 * 🧠  I'm currently learning Backend Technologies.
 * 🤝  I'm open to collaborating on any type of projects.
 * ⚡  Seeker of truth, walking the path of code, consciousness and clarity.
- <br>
+
+ <p align="left">
+  <a href="https://akashcreates.github.io/Basic_Protfolio/" target="_blank">
+    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white"/>
+  </a>
+  <a href="https://www.linkedin.com/in/akash-maity-akashcreates" target="_blank">
+    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://twitter.com/_akash_maity" target="_blank">
+    <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
+  </a>
+  <a href="mailto:akashmaityofficial@gmail.com" target="_blank">
+    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  
+</p>
+
+<br>
 
  
  
@@ -82,22 +98,8 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
       <a href="#"><img alt="Wordpress" src="https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white"></a>
   </p>
 
-### 💬 Social
+ 
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/akash-maity-akashcreates" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://twitter.com/_akash_maity" target="_blank">
-    <img alt="Twitter" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"/>
-  </a>
-  <a href="mailto:akashmaityofficial@gmail.com" target="_blank">
-    <img alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://akashcreates.github.io/Basic_Protfolio/" target="_blank">
-    <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white"/>
-  </a>
-</p>
 
 
 <summary><h2> 📊 My Github Stats <a href="https://github.com/AkashCreates"><img src="https://private-user-images.githubusercontent.com/109308073/243273737-bfd77a60-d426-4470-b417-fdbab0166188.gif?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MDU1ODU2MDksIm5iZiI6MTcwNTU4NTMwOSwicGF0aCI6Ii8xMDkzMDgwNzMvMjQzMjczNzM3LWJmZDc3YTYwLWQ0MjYtNDQ3MC1iNDE3LWZkYmFiMDE2NjE4OC5naWY_WC1BbXotQWxnb3JpdGhtPUFXUzQtSE1BQy1TSEEyNTYmWC1BbXotQ3JlZGVudGlhbD1BS0lBVkNPRFlMU0E1M1BRSzRaQSUyRjIwMjQwMTE4JTJGdXMtZWFzdC0xJTJGczMlMkZhd3M0X3JlcXVlc3QmWC1BbXotRGF0ZT0yMDI0MDExOFQxMzQxNDlaJlgtQW16LUV4cGlyZXM9MzAwJlgtQW16LVNpZ25hdHVyZT1hNjg5ZmM3NGYyMGI1YzdlODM3ZWU3MGI4ZjdjZDkwNDhjNjc0YTdjZjFkYWE5NmZlYjQwZDNlNWRiOTJkODBjJlgtQW16LVNpZ25lZEhlYWRlcnM9aG9zdCZhY3Rvcl9pZD0wJmtleV9pZD0wJnJlcG9faWQ9MCJ9.kuTaUTQK4p7B8vLYCdX0Ew_hf7U0aYZtArpZ4uhho-0"/></a></h2></summary>
