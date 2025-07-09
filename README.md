@@ -45,7 +45,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
      <a href="#"><img alt="C" src="https://img.shields.io/badge/--00599C?style=for-the-badge&logo=c&logoColor=white&label="></a>
   </p>
 
-  <h3>🧰 Frameworks & Libraries & Environment</h3>
+  <h3>🧰 Frameworks, Libraries & Environment</h3>
 
   <p>
       <a href="#"><img alt="Node Js" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"/></a>
