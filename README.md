@@ -14,7 +14,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 * ⚡  Seeker of truth, walking the path of code, consciousness and clarity.
 
  <p align="left">
-  <a href="https://akashcreates.github.io/Basic_Protfolio/" target="_blank">
+  <a href="https://basic-protfolio.vercel.app/" target="_blank">
     <img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=githubpages&logoColor=white"/>
   </a>
   <a href="https://www.linkedin.com/in/akash-maity-akashcreates" target="_blank">
